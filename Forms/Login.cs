@@ -41,13 +41,7 @@ namespace GPManagementApp
             {
                 textBox2.PasswordChar = '*';
             }
-                      
-
-
-                
-
-
-
+             
         }
         
         private void button1_Click(object sender, EventArgs e)
